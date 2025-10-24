@@ -11,6 +11,7 @@ Prompt 2
 prompts Capa
 
 Create a futuristic and epic digital illustration for an e-book cover about DevOps with AI. The scene features a young Black male developer with curly hair and brown eyes, standing confidently in a high-tech cityscape of the near future. He wears a sleek, modern outfit with glowing accents, surrounded by holographic code, AI interfaces, and DevOps pipelines. The atmosphere is vibrant and dynamic, with a color palette dominated by navy blue, pink, and turquoise. The style should be bold, youthful, and inspiring, evoking innovation, intelligence, and the power of technology.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Create a futuristic and epic digital illustration for an e-book cover about DevOps with AI. The scene features a young Black male developer with curly hair and brown eyes, standing confidently in front of a clean, uniform background — preferably a gradient or solid color in navy blue, turquoise, or pink — to ensure clarity for overlaying logos and icons. He wears a sleek, modern outfit with glowing accents, and is surrounded by holographic code, AI interfaces, and DevOps pipelines. The overall atmosphere should be vibrant and dynamic, with a color palette dominated by navy blue, pink, and turquoise. The style should be bold, youthful, and inspiring, evoking innovation, intelligence, and the power of technology.
 
